@@ -92,7 +92,7 @@ public class UserController {
     }
 
     /**
-     * 修改获取用户的界面
+     * 修改获取用户的界面.
      * @param id
      * @param model
      * @return
